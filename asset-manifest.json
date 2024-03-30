@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kidydult_accessment_frontend/static/css/main.6e35b545.css",
-    "main.js": "/kidydult_accessment_frontend/static/js/main.b00cd628.js",
-    "static/js/453.405324ab.chunk.js": "/kidydult_accessment_frontend/static/js/453.405324ab.chunk.js",
-    "index.html": "/kidydult_accessment_frontend/index.html",
-    "main.6e35b545.css.map": "/kidydult_accessment_frontend/static/css/main.6e35b545.css.map",
-    "main.b00cd628.js.map": "/kidydult_accessment_frontend/static/js/main.b00cd628.js.map",
-    "453.405324ab.chunk.js.map": "/kidydult_accessment_frontend/static/js/453.405324ab.chunk.js.map"
+    "main.css": "/kidydult_assessment_frontend/static/css/main.6e35b545.css",
+    "main.js": "/kidydult_assessment_frontend/static/js/main.3cc6d698.js",
+    "static/js/453.642e9604.chunk.js": "/kidydult_assessment_frontend/static/js/453.642e9604.chunk.js",
+    "index.html": "/kidydult_assessment_frontend/index.html",
+    "main.6e35b545.css.map": "/kidydult_assessment_frontend/static/css/main.6e35b545.css.map",
+    "main.3cc6d698.js.map": "/kidydult_assessment_frontend/static/js/main.3cc6d698.js.map",
+    "453.642e9604.chunk.js.map": "/kidydult_assessment_frontend/static/js/453.642e9604.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6e35b545.css",
-    "static/js/main.b00cd628.js"
+    "static/js/main.3cc6d698.js"
   ]
 }
