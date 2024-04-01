@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/kidydult_assessment_frontend/static/css/main.6e35b545.css",
-    "main.js": "/kidydult_assessment_frontend/static/js/main.68f64d7c.js",
+    "main.js": "/kidydult_assessment_frontend/static/js/main.917ad58e.js",
     "static/js/453.642e9604.chunk.js": "/kidydult_assessment_frontend/static/js/453.642e9604.chunk.js",
     "index.html": "/kidydult_assessment_frontend/index.html",
     "main.6e35b545.css.map": "/kidydult_assessment_frontend/static/css/main.6e35b545.css.map",
-    "main.68f64d7c.js.map": "/kidydult_assessment_frontend/static/js/main.68f64d7c.js.map",
+    "main.917ad58e.js.map": "/kidydult_assessment_frontend/static/js/main.917ad58e.js.map",
     "453.642e9604.chunk.js.map": "/kidydult_assessment_frontend/static/js/453.642e9604.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6e35b545.css",
-    "static/js/main.68f64d7c.js"
+    "static/js/main.917ad58e.js"
   ]
 }
